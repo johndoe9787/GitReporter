@@ -19,7 +19,7 @@ class Reporter:
                 break
             else:
                 print("Invalid Github username")
-                continue
+                
 
     def get_input(self):
         answer = input("Enter Github username: ")
